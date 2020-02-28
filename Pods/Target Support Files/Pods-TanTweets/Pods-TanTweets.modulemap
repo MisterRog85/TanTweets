@@ -1,0 +1,6 @@
+framework module Pods_TanTweets {
+  umbrella header "Pods-TanTweets-umbrella.h"
+
+  export *
+  module * { export * }
+}
